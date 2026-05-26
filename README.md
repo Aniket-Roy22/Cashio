@@ -397,28 +397,6 @@ http://localhost:5173
 
 ---
 
-# Learning Outcomes
-
-This project demonstrates:
-
-- Full Stack Web Development
-- REST API Design
-- JWT Authentication
-- Refresh Token Flow
-- Prisma ORM Usage
-- PostgreSQL Relationships
-- CRUD Operations
-- React Context API
-- Axios Interceptors
-- Protected Routes
-- Authentication & Authorization
-- Relational Database Design
-- Reusable React Components
-- Expense Tracking Logic
-- Frontend-Backend Integration
-
----
-
 # Author
 
 **Intern ID:** CITS730
