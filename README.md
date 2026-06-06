@@ -1,4 +1,4 @@
-# Full Stack Expense Tracker Dashboard
+# Cashio
 
 A modern full-stack expense tracking dashboard built using React, Express.js, Prisma ORM, PostgreSQL, and JWT Authentication.
 
@@ -36,9 +36,6 @@ A modern full-stack expense tracking dashboard built using React, Express.js, Pr
 	- [6. Frontend Setup](#6-frontend-setup)
 	- [7. Start Frontend](#7-start-frontend)
 - [Screenshots](#screenshots)
-- [Learning Outcomes](#learning-outcomes)
-- [Author](#author)
-
 ---
 
 # Tech Stack
@@ -271,7 +268,7 @@ Protected routes prevent unauthorized access to dashboard pages.
 # 1. Clone Repository
 
 ```bash
-git clone https://github.com/Aniket-Roy22/Expense-Tracker.git
+git clone https://github.com/Aniket-Roy22/Cashio.git
 ```
 
 ---
@@ -361,17 +358,3 @@ http://localhost:5173
 ## Single Category Page
 
 ![Category](./screenshots/category.png)
-
----
-
-# Author
-
-**Intern ID:** CITS730
-<br>
-**Full Name:** Aniket Roy
-<br>
-**No. of Weeks:** 4
-<br>
-**Project Name:** Expense Tracker Dashboard
-<br>
-**Project Scope:** The project aims to build a full-stack expense management dashboard with secure JWT authentication, category-wise expense tracking, spending limit monitoring, and complete CRUD functionality for categories and expenses. The project demonstrates frontend-backend integration using React, Express.js, Prisma ORM, PostgreSQL, and Axios interceptors.
