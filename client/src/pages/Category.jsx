@@ -190,6 +190,15 @@ function Category()
 						<p>Used: ₹{category.utilized}</p>
 
 						<p>Remaining: ₹{category.remaining}</p>
+
+						<div className="progress-bar">
+							<div
+								className="progress-fill"
+								style={{
+									width: `${(category.utilized / category.limitAmount) * 100}%`,
+								}}
+							/>
+						</div>
 					</div>
 				</div>
 
