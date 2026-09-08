@@ -2,8 +2,8 @@ export function logoutUser(req, res)
 {
 	res.clearCookie("refreshToken", {
 		httpOnly: true,
-		secure: false,
-		sameSite: "lax",
+		secure: true,
+		sameSite: "none",
 		path: "/auth",
 	});
 
